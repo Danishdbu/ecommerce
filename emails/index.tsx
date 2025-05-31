@@ -1,7 +1,7 @@
 import { SENDER_EMAIL, SENDER_NAME } from "@/lib/constant";
 import { IOrder } from "@/lib/db/models/order.model";
 import { Resend } from 'resend';
-import PurchaseReceiptEmail from "./purchase-receipt";
+import PurchaseReceiptEmail from "./purchase-receipt"; 
 
 const resend = new Resend(process.env.RESEND_API_KEY  as string)
 
