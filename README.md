@@ -40,17 +40,17 @@ This project is based on the YouTube tutorial by **Code With Yousaf**. You can w
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-![Homepage](./public/images/homepage.png)
+![Homepage](./public/home.png)
 
 ---
 
 ### 🛍️ Product Listing
-![Product Listing](./public/images/products.png)
+![Product Listing](./public/product.png)
 
 ---
 
 ### 💳 Checkout Page
-![Checkout Page](./public/images/checkout.png)
+![Checkout Page](./public/checkout.png)
 
 ---
 
