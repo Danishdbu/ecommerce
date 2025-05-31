@@ -31,7 +31,7 @@ A fully responsive and feature-rich eCommerce application built with the latest 
 
 ## 🎬 Tutorial Reference
 
-This project is based on the YouTube tutorial by **Code With Yousaf**. You can watch the full video here:
+This project is based on the YouTube tutorial by **Az Bytes**. You can watch the full video here:
 
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=s6bJbikLnKM&t=22852s)
 
