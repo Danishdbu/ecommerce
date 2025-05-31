@@ -44,8 +44,8 @@ This project is based on the YouTube tutorial by **Code With Yousaf**. You can w
 
 ---
 
-### 🛍️ Product Listing
-![Product Listing](./public/product.png)
+### 🛍️ Product
+![Product ](./public/product.png)
 
 ---
 
